@@ -153,6 +153,7 @@ ralink_default_fw_size_4M=3866624
 ralink_default_fw_size_8M=8060928
 ralink_default_fw_size_16M=16121856
 ralink_default_fw_size_32M=33226752
+ralink_default_fw_size_64M=66453504
 
 ifeq ($(SUBTARGET),rt288x)
 include rt288x.mk
